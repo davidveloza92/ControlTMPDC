@@ -37,22 +37,19 @@ ESQUEMA
 •	Vista OLED y LED:
 o	Temperatura normal y LED verde activo
 
+![image](https://user-images.githubusercontent.com/86392467/127084069-676c9430-a978-425f-9c87-9499476fccce.png)
 
 o	Temperatura subiendo/bajando y LED amarillo activo
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/86392467/127084086-8eb2cc9b-d064-4851-95be-0200f84ddc94.png)
 
 o	Temperatura alta/baja y LED verde activo 
 
- 
+ ![image](https://user-images.githubusercontent.com/86392467/127084095-05105fa4-ee88-4bdd-8140-40e2bbe89837.png)
+
 
 •	Recepción correo y alimentación Drive: De esta forma se visualiza los datos recibidos por el sensor a cada cambio de temperatura alimentando una hoja de calculo en drive indicándonos la fecha y hora de cada registro, también se puede corroborar que la hora registrada en la tabla coincide con el correo recibido el cual alerta por un cambio de temperatura fuera de los rangos normales:
 
- 
+ ![image](https://user-images.githubusercontent.com/86392467/127084103-af8acfcf-903e-4766-801d-41e6cc64bcd6.png)
+
 
 
